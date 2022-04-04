@@ -18,12 +18,6 @@ const Footer = () => {
 
         <p>Copyrights 2021 &copy; Ajeet Singh</p>
       </div>
-      <div className="rightFooter">
-        <h4>Follow us</h4>
-        <a href="">Instagram</a>
-        <a href="">Facebook</a>
-        <a href="">LinkedIn</a>
-      </div>
     </footer>
   );
 };
